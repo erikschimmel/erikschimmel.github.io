@@ -1,4 +1,4 @@
 erikschimmel
 ============
 
-GitHub page
+Erik's GitHub page
